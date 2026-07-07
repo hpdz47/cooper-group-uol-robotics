@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fszcz
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-SM-TREN/1001003/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-01T15:40:06.712+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/Users/nmrsu/Desktop/LCMS-NMR-Analysis-main/supramol_SMs_NMR/supramol_SMs-06/1001002/audita.txt
+(   2,<2023-12-01T15:40:13.149+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'e6982d96-905f-11ee-a211-0000ad371d11'
+       started at 2023-12-01 15:40:06.712 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2023-12-01 15:40:13.141 +0000
+       configuration hash MD5:
+       3B 63 13 C9 3C C0 BE 7D 9C 93 8A 81 EB 30 E6 7B
+       double data hash MD5: 19416
+       F0 CE 82 AD 34 BE 44 59 50 3B 29 A8 FD 32 FD 08>)
+(   3,<2023-12-01T15:40:14.033+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       06 69 F7 EF EE 49 1F 35 C7 69 B3 81 3E 9C F7 3C>)
+(   4,<2023-12-01T15:40:14.188+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       02 50 BB 3E B7 EE 2D 27 81 04 FA 1C BE 35 D3 44>)
+(   5,<2023-12-01T15:40:14.284+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       02 50 BB 3E B7 EE 2D 27 81 04 FA 1C BE 35 D3 44>)
+(   6,<2024-05-13 18:30:22.479 +0100>,<fszcz>,<cataratto>,<jcamp>,<TopSpin 4.2.0>,
+      <fromjdx created from
+       E:\synbots_clean\DATA\SUPRAMOL-SCREENING\SUPRAMOL-SM\SUPRAMOL-SM-TREN.dx
+       data hash MD5: 32K
+       02 50 BB 3E B7 EE 2D 27 81 04 FA 1C BE 35 D3 44>)
+##END=
+
+$$ hash MD5
+$$ 27 E1 DD 45 C2 AA B7 6A 2B 51 D3 2B 24 C8 DD 06

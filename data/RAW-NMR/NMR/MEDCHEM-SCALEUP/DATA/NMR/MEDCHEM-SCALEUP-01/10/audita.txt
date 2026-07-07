@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/synthesis_bots/2024-02-07-MEDCHEM-SCALEUP/DATA/NMR/MEDCHEM-SCALEUP-01/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-09T13:22:51.261+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH2Cl2>)
+(   2,<2024-02-09T13:22:56.171+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 64>)
+(   3,<2024-02-09T13:23:26.358+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2024-02-09T13:30:49.303+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '64385544-c74e-11ee-9692-0000ad371d11'
+       started at 2024-02-09 13:23:26.358 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-09 13:30:49.296 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 8K
+       C1 38 3E A9 35 68 7E BD 94 D0 1C F2 03 22 ED 74>)
+##END=
+
+$$ hash MD5
+$$ 8C 8E 5C BD AE F0 F2 A9 4B EB D8 32 97 73 48 A3

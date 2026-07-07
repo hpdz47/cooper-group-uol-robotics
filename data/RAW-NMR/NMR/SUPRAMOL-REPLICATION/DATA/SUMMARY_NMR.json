@@ -1,0 +1,655 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.73862,
+            8.499293,
+            8.447024,
+            8.344459,
+            8.253394,
+            7.916102,
+            7.867888,
+            7.519475,
+            7.354805,
+            7.253539,
+            6.502812,
+            6.40147
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 431.0132751464844,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "7",
+                "mz_expected": 430.81,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.0862426757812,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.0862426757812,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.744196,
+            8.598122,
+            8.50052,
+            8.448384,
+            8.349574,
+            8.257003,
+            7.917542,
+            7.870783,
+            7.522981,
+            7.359119,
+            7.25733,
+            6.505581,
+            6.404489
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 430.9282531738281,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "7",
+                "mz_expected": 430.81,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 527.4088745117188,
+                "mode": "ES+",
+                "formula": "ZnNTf_(8)_Ald1_(24)_Tris_(8)",
+                "charge": "12",
+                "mz_expected": 527.37,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 548.4912719726562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.34130859375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 550.2764282226562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(9)_Ald1_(27)_Tris_(9)",
+                "charge": "13",
+                "mz_expected": 550.67,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.737493,
+            8.44551,
+            8.343398,
+            8.249806,
+            7.914545,
+            7.866541,
+            7.518164,
+            7.354269,
+            7.251991,
+            6.501287,
+            6.399819
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 431.0132751464844,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "7",
+                "mz_expected": 430.81,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 548.9163208007812,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 548.9163208007812,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 715.3773193359375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.739781,
+            8.498135,
+            8.446787,
+            8.344098,
+            8.252244,
+            7.915228,
+            7.868189,
+            7.52001,
+            7.355644,
+            7.254676,
+            6.503162,
+            6.402273
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 548.5762329101562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.5963134765625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 715.122314453125,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.741249,
+            8.500254,
+            8.447675,
+            8.346697,
+            8.252994,
+            7.916502,
+            7.868978,
+            7.521471,
+            7.357396,
+            7.255956,
+            6.504455,
+            6.403574
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 411.80322265625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(8)_Ald1_(24)_Tris_(8)",
+                "charge": "14",
+                "mz_expected": 412.04,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 430.7582092285156,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "7",
+                "mz_expected": 430.81,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 527.3237915039062,
+                "mode": "ES+",
+                "formula": "ZnNTf_(8)_Ald1_(24)_Tris_(8)",
+                "charge": "12",
+                "mz_expected": 527.37,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 548.5762329101562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.4263916015625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 550.2764282226562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(9)_Ald1_(27)_Tris_(9)",
+                "charge": "13",
+                "mz_expected": 550.67,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 714.6971435546875,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "peaks_ppm": [
+            8.73949,
+            8.599819,
+            8.500636,
+            8.44621,
+            8.344939,
+            8.253374,
+            7.915503,
+            7.867292,
+            7.519482,
+            7.355087,
+            7.253801,
+            6.502146,
+            6.401577
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 549.1713256835938,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 550.4464721679688,
+                "mode": "ES+",
+                "formula": "ZnNTf_(9)_Ald1_(27)_Tris_(9)",
+                "charge": "13",
+                "mz_expected": 550.67,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 715.2923583984375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "7": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.55657,
+            8.466977,
+            8.418164,
+            8.354582,
+            8.267212,
+            8.174145,
+            7.887594,
+            7.835558,
+            7.006474,
+            6.903588,
+            6.235064,
+            6.13242
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 315.07958984375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.4473876953125,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 513.552490234375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "8": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.556386,
+            8.467817,
+            8.419245,
+            8.354871,
+            8.267528,
+            8.174361,
+            7.887684,
+            7.835478,
+            7.006088,
+            6.903989,
+            6.235107,
+            6.132472
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9095764160156,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "4",
+                "mz_expected": 314.59,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 314.9095764160156,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.617431640625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "9": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.559176,
+            8.466938,
+            8.419325,
+            8.355248,
+            8.269677,
+            8.176545,
+            7.889257,
+            7.837441,
+            7.007594,
+            6.905117,
+            6.236034,
+            6.133348
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 513.2974853515625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "10": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.556667,
+            8.466167,
+            8.418114,
+            8.354693,
+            8.267109,
+            8.175017,
+            7.887857,
+            7.83518,
+            7.005543,
+            6.903053,
+            6.234458,
+            6.131731
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.3624267578125,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 513.2974853515625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "11": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.555732,
+            8.466043,
+            8.416082,
+            8.354204,
+            8.266434,
+            8.174676,
+            7.886824,
+            7.835217,
+            7.005,
+            6.902841,
+            6.234334,
+            6.131673
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.3624267578125,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 513.2974853515625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "12": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "peaks_ppm": [
+            8.556534,
+            8.466514,
+            8.416416,
+            8.354314,
+            8.26713,
+            8.175065,
+            7.888273,
+            7.835591,
+            7.005699,
+            6.903538,
+            6.235056,
+            6.132253
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATED": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 513.2974853515625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    }
+}

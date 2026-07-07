@@ -1,0 +1,22 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/SUPRAMOL-SCREENING-02/1001001/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-03T17:21:31.609+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/synthesis_bots/2024-02-03-SUPRAMOL-SCREENING/DATA/NMR/SUPRAMOL-SCREENING-02/1001001/audita.txt
+(   2,<2024-02-03T17:21:36.992+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'ac328b3e-c2b8-11ee-8fac-0000ad371d11'
+       started at 2024-02-03 17:21:31.609 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-03 17:21:36.985 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       F8 00 8C BC 0B 21 54 C7 0B ED 01 A4 FC 76 DD 14>)
+##END=
+
+$$ hash MD5
+$$ 7F 0B EA 8A 1F AF 06 D5 16 FA EE 07 66 54 FA F1

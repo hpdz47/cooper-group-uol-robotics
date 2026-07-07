@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-02-05T18:24:54.088+00:00" expNo="10" name="MEDCHEM-SCREENING-SM-01" owner="" procNo="1" source="C:\synthesis_bots\2024-02-05-MEDCHEM-SCREENING-SM\DATA\NMR">
+      <PeakPickDetails>F1=12.454320ppm, F2=-3.145330ppm, MI=10.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.370562" intensity="7.062543e+01" type="0"/>
+    <Peak1D F1="5.335292" intensity="6.839801e+01" type="0"/>
+    <Peak1D F1="5.298675" intensity="4.350223e+01" type="0"/>
+    <Peak1D F1="3.400347" intensity="1.470093e+02" type="0"/>
+    <Peak1D F1="3.371343" intensity="1.500000e+02" type="0"/>
+    <Peak1D F1="2.269367" intensity="4.356490e+01" type="0"/>
+    <Peak1D F1="2.241720" intensity="7.407506e+01" type="0"/>
+    <Peak1D F1="2.213912" intensity="4.245142e+01" type="0"/>
+    <Peak1D F1="1.289738" intensity="4.773056e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

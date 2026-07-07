@@ -1,0 +1,167 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\synthesis_bots\2024-02-07-MEDCHEM-DIVERSITY\DATA\NMR\MEDCHEM-DIVERSITY-15\10\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-12T09:57:05.935+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 8192>)
+(   2,<2024-02-12T09:57:05.967+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 LB to 1.20>)
+(   3,<2024-02-12T09:57:06.014+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       44 04 54 01 99 09 AB 69 5C 67 E2 A0 C9 75 D8 B7>)
+(   4,<2024-02-12T09:57:08.586+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <apbk -n
+       data hash MD5: 8K
+       44 04 54 01 99 09 AB 69 5C 67 E2 A0 C9 75 D8 B7>)
+(   5,<2024-02-12T09:57:08.633+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+(   6,<2024-02-12T09:57:08.649+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <ht 
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+(   7,<2024-02-12T09:57:10.233+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 CY to 150>)
+(   8,<2024-02-12T09:57:10.295+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 MI to 10>)
+(   9,<2024-02-12T09:57:10.468+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+$$ E:\synbots_clean\NMR\MEDCHEM-DIVERSITY\DATA\NMR/MEDCHEM-DIVERSITY-15/10/pdata/1/auditp.txt
+(  10,<2024-05-14 22:57:43.514 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       44 04 54 01 99 09 AB 69 5C 67 E2 A0 C9 75 D8 B7>)
+(  11,<2024-05-14 22:57:47.047 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       44 04 54 01 99 09 AB 69 5C 67 E2 A0 C9 75 D8 B7>)
+(  12,<2024-05-14 22:57:47.081 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+(  13,<2024-05-14 22:57:47.198 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+(  14,<2024-05-14 22:57:47.664 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -49.84>)
+(  15,<2024-05-14 22:57:47.698 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -49.84>)
+(  16,<2024-05-14 22:57:47.866 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       B3 29 9D 5C FE 1C 83 6A 4F 19 22 6C 4F F0 C6 0E>)
+(  17,<2024-05-14 23:00:03.669 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 LB to 0.80>)
+(  18,<2024-05-14 23:00:03.710 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 0.8 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       02 A0 8D 28 C8 A0 47 AB 65 66 E5 BA D8 A2 41 3C>)
+(  19,<2024-05-14 23:00:04.920 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       02 A0 8D 28 C8 A0 47 AB 65 66 E5 BA D8 A2 41 3C>)
+(  20,<2024-05-14 23:00:04.971 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       49 60 83 55 05 5B F8 1D 1B DA 3D 2A D3 AB B7 01>)
+(  21,<2024-05-14 23:00:04.984 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       49 60 83 55 05 5B F8 1D 1B DA 3D 2A D3 AB B7 01>)
+(  22,<2024-05-14 23:00:05.252 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -49.84>)
+(  23,<2024-05-14 23:00:05.283 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -49.84>)
+(  24,<2024-05-14 23:00:05.452 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       49 60 83 55 05 5B F8 1D 1B DA 3D 2A D3 AB B7 01>)
+(  25,<2024-05-14 23:00:50.634 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 0.8 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       02 A0 8D 28 C8 A0 47 AB 65 66 E5 BA D8 A2 41 3C>)
+(  26,<2024-05-14 23:00:50.719 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 8K
+       31 E4 30 08 F6 4C 66 42 BF B0 B3 E8 7D 01 BE BF>)
+(  27,<2024-05-14 23:00:50.751 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <apk 
+       data hash MD5: 8K
+       A4 6B 81 96 18 13 E9 37 CA 36 9C 23 7A 0A 1C 94>)
+(  28,<2024-05-14 23:00:50.934 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -49.84>)
+(  29,<2024-05-14 23:00:50.951 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -49.84>)
+(  30,<2024-05-14 23:00:51.120 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       A4 6B 81 96 18 13 E9 37 CA 36 9C 23 7A 0A 1C 94>)
+(  31,<2024-05-14 23:03:02.303 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 0.8 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       02 A0 8D 28 C8 A0 47 AB 65 66 E5 BA D8 A2 41 3C>)
+(  32,<2024-05-14 23:03:03.948 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       02 A0 8D 28 C8 A0 47 AB 65 66 E5 BA D8 A2 41 3C>)
+(  33,<2024-05-14 23:03:03.995 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       49 60 83 55 05 5B F8 1D 1B DA 3D 2A D3 AB B7 01>)
+(  34,<2024-05-14 23:03:04.011 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       49 60 83 55 05 5B F8 1D 1B DA 3D 2A D3 AB B7 01>)
+(  35,<2024-05-14 23:03:04.262 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <apk 
+       data hash MD5: 8K
+       66 4C 5A 51 A2 87 28 B3 B8 A6 40 A3 C2 FA 73 15>)
+(  36,<2024-05-14 23:03:04.372 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -49.84>)
+(  37,<2024-05-14 23:03:04.372 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -49.84>)
+(  38,<2024-05-14 23:03:04.529 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       66 4C 5A 51 A2 87 28 B3 B8 A6 40 A3 C2 FA 73 15>)
+(  39,<2024-05-14 23:06:07.896 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       66 4C 5A 51 A2 87 28 B3 B8 A6 40 A3 C2 FA 73 15>)
+(  40,<2024-05-14 23:06:07.943 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       11 5A F0 DE ED 1D B1 B4 69 17 C3 C4 DB 0C 6A 2D>)
+(  41,<2024-05-14 23:06:07.959 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       11 5A F0 DE ED 1D B1 B4 69 17 C3 C4 DB 0C 6A 2D>)
+(  42,<2024-05-14 23:08:07.159 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       efp LB = 0.8 FT_mod = 6 PKNL = 1 PHC0 = -57.00827 PHC1 = 31.31453 SI = 8K 
+       data hash MD5: 8K
+       89 13 E3 62 19 54 85 17 CE 51 CB A8 B7 CF 8F 89>)
+(  43,<2024-05-14 23:08:07.292 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -49.84>)
+(  44,<2024-05-14 23:08:07.313 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -49.84>)
+(  45,<2024-05-14 23:08:07.476 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       89 13 E3 62 19 54 85 17 CE 51 CB A8 B7 CF 8F 89>)
+##END=
+
+$$ hash MD5
+$$ 7B 22 9D 36 6E C6 47 69 AB D5 D0 04 75 AF 50 CF

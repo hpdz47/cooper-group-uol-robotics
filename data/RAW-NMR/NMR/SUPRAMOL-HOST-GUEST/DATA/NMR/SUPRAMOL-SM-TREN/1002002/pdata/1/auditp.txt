@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fszcz
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-SM-TREN/1002002/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-01T15:48:07.274+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/Users/nmrsu/Desktop/LCMS-NMR-Analysis-main/supramol_SMs_NMR/supramol_SMs-06/1002002/audita.txt
+(   2,<2023-12-01T15:48:14.475+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '05057166-9061-11ee-9456-0000ad371d11'
+       started at 2023-12-01 15:48:07.273 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2023-12-01 15:48:14.468 +0000
+       configuration hash MD5:
+       3B 63 13 C9 3C C0 BE 7D 9C 93 8A 81 EB 30 E6 7B
+       double data hash MD5: 19416
+       20 E5 9A C7 86 0B 9E 2F 29 DC 7E 12 6C BE 1B 11>)
+(   3,<2023-12-01T15:48:15.380+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 1 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       FF 00 8A 82 82 B5 7F 7F 78 FD 29 90 6E D3 9A 79>)
+(   4,<2023-12-01T15:48:15.643+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       11 64 74 ED F8 8C 9E 5C B3 A0 65 E8 47 68 D2 33>)
+(   5,<2023-12-01T15:48:15.880+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       11 64 74 ED F8 8C 9E 5C B3 A0 65 E8 47 68 D2 33>)
+(   6,<2024-05-13 18:28:26.357 +0100>,<fszcz>,<cataratto>,<jcamp>,<TopSpin 4.2.0>,
+      <fromjdx created from
+       E:\synbots_clean\DATA\SUPRAMOL-SCREENING\SUPRAMOL-SM\SUPRAMOL-SM-TREN.dx
+       data hash MD5: 32K
+       11 64 74 ED F8 8C 9E 5C B3 A0 65 E8 47 68 D2 33>)
+##END=
+
+$$ hash MD5
+$$ 21 5B 28 33 E3 69 AB 5B 00 59 F6 44 22 06 C5 C6

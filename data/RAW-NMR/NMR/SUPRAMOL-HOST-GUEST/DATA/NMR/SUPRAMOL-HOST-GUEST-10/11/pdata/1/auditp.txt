@@ -1,0 +1,124 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fszcz
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-HOST-GUEST-10/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-05T03:45:44.923+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 8192>)
+(   2,<2024-02-05T03:45:44.953+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 LB to 1.20>)
+(   3,<2024-02-05T03:45:45.011+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(   4,<2024-02-05T03:45:47.623+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(   5,<2024-02-05T03:45:47.670+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(   6,<2024-02-05T03:45:47.686+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <ht 
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(   7,<2024-02-05T03:45:47.969+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SR to -5.58>)
+(   8,<2024-02-05T03:45:47.984+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed status parameter F1 SR to -5.58>)
+(   9,<2024-02-05T03:45:48.057+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 CY to 150>)
+(  10,<2024-02-05T03:45:48.110+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 MI to 5>)
+(  11,<2024-02-05T03:45:48.267+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-HOST-GUEST-10/10/pdata/1/auditp.txt
+(  12,<2024-05-13 17:24:45.601 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  13,<2024-05-13 17:24:48.666 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  14,<2024-05-13 17:24:48.707 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  15,<2024-05-13 17:24:48.725 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  16,<2024-05-13 17:24:49.039 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.58>)
+(  17,<2024-05-13 17:24:49.051 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.58>)
+(  18,<2024-05-13 17:24:49.244 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  19,<2024-05-13 17:26:22.443 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  20,<2024-05-13 17:26:23.962 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  21,<2024-05-13 17:26:24.006 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  22,<2024-05-13 17:26:24.024 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  23,<2024-05-13 17:26:24.234 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.58>)
+(  24,<2024-05-13 17:26:24.260 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.58>)
+(  25,<2024-05-13 17:26:24.556 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  26,<2024-05-13 17:28:08.902 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  27,<2024-05-13 17:28:10.469 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 99 50 D0 0F 13 FB 8E 15 22 D4 37 44 FC 5F A9>)
+(  28,<2024-05-13 17:28:10.508 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  29,<2024-05-13 17:28:10.525 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  30,<2024-05-13 17:28:10.734 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.58>)
+(  31,<2024-05-13 17:28:10.745 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.58>)
+(  32,<2024-05-13 17:28:10.911 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+(  33,<2024-05-13 17:30:27.168 +0100>,<fszcz>,<cataratto>,<jcamp>,<TopSpin 4.2.0>,
+      <fromjdx created from
+       E:\synbots_clean\DATA\SUPRAMOL-HOST-GUEST\DATA\NMR\SUPRAMOL-HOST-GUEST-10.dx
+       data hash MD5: 8K
+       90 0F 18 F2 E4 EF BE 08 6B E3 1A D8 26 35 84 62>)
+##END=
+
+$$ hash MD5
+$$ FD 4D A6 AD 03 B7 92 76 2C 1D 79 E0 1A 71 97 95

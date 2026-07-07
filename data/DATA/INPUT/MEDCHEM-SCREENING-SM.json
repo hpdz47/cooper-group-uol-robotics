@@ -1,0 +1,37 @@
+{
+    "1": {
+        "sample_info": "Am1",
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "2": {
+        "sample_info": "Am2",
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "3": {
+        "sample_info": "Am3",
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "4": {
+        "sample_info": "Iso",
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "5": {
+        "sample_info": "Thio",
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}

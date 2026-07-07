@@ -1,0 +1,146 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "1"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "7": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "8": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "9": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "10": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "11": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "12": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf",
+            "screening_id": "7"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    }
+}

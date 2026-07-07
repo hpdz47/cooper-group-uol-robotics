@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-02-04 20:15:42.521 +0000  nmrsu@4CE1161FJM
+$$ C:\synthesis_bots\2024-02-03-SUPRAMOL-REPLICATION\DATA\NMR/SUPRAMOL-REPLICATION-04/1001002/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\edparproc.exe
+##$CURPLOT= <>
+##$CURPRIN= <$>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

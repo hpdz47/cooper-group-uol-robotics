@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2023-12-12T16:58:02.281+00:00" expNo="20" name="Supramol_SMs-06-TREN" owner="" procNo="1" source="C:/synthesis-bot/DATA/2023-12-01-SUPRAMOL_SMS_NMR">
+      <PeakPickDetails>F1=12.552540ppm, F2=-3.047112ppm, MI=20.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.628047" intensity="1.287758e+02" type="0"/>
+    <Peak1D F1="2.567732" intensity="1.020488e+02" type="0"/>
+    <Peak1D F1="2.473242" intensity="1.013629e+02" type="0"/>
+    <Peak1D F1="2.410155" intensity="9.196874e+01" type="0"/>
+    <Peak1D F1="2.145095" intensity="1.498296e+02" type="0"/>
+    <Peak1D F1="1.964224" intensity="1.090699e+02" type="0"/>
+    <Peak1D F1="1.815931" intensity="1.500000e+02" type="0"/>
+  </PeakList1D>
+</PeakList>

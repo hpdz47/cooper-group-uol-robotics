@@ -1,0 +1,62 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Am1",
+            "isocyanate": "Iso"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Am1",
+            "isocyanate": "Thio"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Am2",
+            "isocyanate": "Iso"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Am2",
+            "isocyanate": "Thio"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Am3",
+            "isocyanate": "Iso"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Am3",
+            "isocyanate": "Thio"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}

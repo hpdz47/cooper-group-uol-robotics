@@ -1,0 +1,30 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fszcz
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-SM-TREN/11/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-01T15:39:53.219+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH3CN>)
+(   2,<2023-12-01T15:39:54.612+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 64>)
+(   3,<2023-12-01T15:40:25.927+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2023-12-01T15:47:51.511+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'ee5f9640-905f-11ee-beea-0000ad371d11'
+       started at 2023-12-01 15:40:25.926 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2023-12-01 15:47:51.502 +0000
+       configuration hash MD5:
+       3B 63 13 C9 3C C0 BE 7D 9C 93 8A 81 EB 30 E6 7B
+       double data hash MD5: 8K
+       7C A5 32 6B 0A 4C 92 70 3D 6C 7E EE 04 C2 EE E9>)
+(   5,<2024-05-13 18:30:22.864 +0100>,<fszcz>,<cataratto>,<jcamp>,<TopSpin 4.2.0>,
+      <fromjdx created from
+       E:\synbots_clean\DATA\SUPRAMOL-SCREENING\SUPRAMOL-SM\SUPRAMOL-SM-TREN.dx
+       double data hash MD5: 8K
+       7C A5 32 6B 0A 4C 92 70 3D 6C 7E EE 04 C2 EE E9>)
+##END=
+
+$$ hash MD5
+$$ 1E 20 95 27 57 33 24 35 ED 1F 33 25 9A F2 F6 77

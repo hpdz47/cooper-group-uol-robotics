@@ -1,0 +1,69 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\synthesis_bots\2024-02-07-MEDCHEM-SCALEUP\DATA\NMR\MEDCHEM-SCALEUP-01\10\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-09T14:16:55.079+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 8192>)
+(   2,<2024-02-09T14:16:55.110+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 LB to 1.20>)
+(   3,<2024-02-09T14:16:55.157+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 24 7D 94 DD CE 93 22 DB 9A 06 18 D2 C3 3C B0>)
+(   4,<2024-02-09T14:16:57.876+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 24 7D 94 DD CE 93 22 DB 9A 06 18 D2 C3 3C B0>)
+(   5,<2024-02-09T14:16:57.938+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+(   6,<2024-02-09T14:16:57.954+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <ht 
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+(   7,<2024-02-09T14:16:58.282+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SR to 7.69>)
+(   8,<2024-02-09T14:16:58.297+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed status parameter F1 SR to 7.69>)
+(   9,<2024-02-09T14:16:58.532+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 CY to 150>)
+(  10,<2024-02-09T14:16:58.610+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 MI to 10>)
+(  11,<2024-02-09T14:16:58.766+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+$$ E:\synbots_clean\NMR\MEDCHEM-SCALEUP\DATA\NMR/MEDCHEM-SCALEUP-01/10/pdata/1/auditp.txt
+(  12,<2024-05-14 19:44:53.942 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       5F 24 7D 94 DD CE 93 22 DB 9A 06 18 D2 C3 3C B0>)
+(  13,<2024-05-14 19:44:57.369 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       5F 24 7D 94 DD CE 93 22 DB 9A 06 18 D2 C3 3C B0>)
+(  14,<2024-05-14 19:44:57.413 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+(  15,<2024-05-14 19:44:57.430 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+(  16,<2024-05-14 19:44:57.846 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to 7.69>)
+(  17,<2024-05-14 19:44:57.846 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to 7.69>)
+(  18,<2024-05-14 19:44:58.396 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       E3 17 3D 2A DA ED 81 7E 19 9E 9E BC 68 37 F5 3F>)
+##END=
+
+$$ hash MD5
+$$ 64 B0 AD 2A 81 CF 97 C6 1E CE 33 EB 05 56 7B 77

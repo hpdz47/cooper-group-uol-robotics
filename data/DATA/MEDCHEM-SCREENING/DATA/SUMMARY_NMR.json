@@ -1,0 +1,303 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Am1",
+            "isocyanate": "Iso"
+        },
+        "amine": "Am1",
+        "isocyanate": "Iso",
+        "peaks_ppm": [
+            7.899945,
+            7.477407,
+            5.374021,
+            5.285993,
+            4.083302,
+            4.053011,
+            4.013881,
+            3.983589,
+            2.318688,
+            2.288409,
+            2.258156,
+            1.703212
+        ],
+        "DTW_distance": 36.611017310076015,
+        "NMR_PASS": true,
+        "lcms_peaks": {
+            "2.04": {
+                "LC_Area": 1.0,
+                "MS_Hits": [
+                    {
+                        "mz_value": 310.9309387207031,
+                        "mode": "ES+",
+                        "formula": "Am1_Iso [M+H]+",
+                        "charge": "1",
+                        "mz_expected": 311.06,
+                        "time": 2.0906666333333335
+                    },
+                    {
+                        "mz_value": 352.09173583984375,
+                        "mode": "ES+",
+                        "formula": "Am1_Iso [M+CH3CN+H]+",
+                        "charge": "1",
+                        "mz_expected": 352.09,
+                        "time": 2.0906666333333335
+                    }
+                ]
+            },
+            "MS_PASS": true
+        },
+        "SCALEUP": true
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Am1",
+            "isocyanate": "Thio"
+        },
+        "amine": "Am1",
+        "isocyanate": "Thio",
+        "peaks_ppm": [
+            7.839528,
+            7.367135,
+            7.252014,
+            7.221211,
+            7.188435,
+            7.12211,
+            7.054612,
+            7.008372,
+            5.370987,
+            5.286132,
+            4.466035,
+            4.434883,
+            4.401096,
+            4.369919,
+            2.339937,
+            2.309398,
+            2.278795,
+            1.62707
+        ],
+        "DTW_distance": 46.48649252535529,
+        "NMR_PASS": true,
+        "lcms_peaks": {
+            "1.14": {
+                "LC_Area": 0.15243750723160698,
+                "MS_Hits": []
+            },
+            "1.54": {
+                "LC_Area": 0.6401809714341852,
+                "MS_Hits": [
+                    {
+                        "mz_value": 208.98922729492188,
+                        "mode": "ES+",
+                        "formula": "Am1_Thio [M+H]+",
+                        "charge": "1",
+                        "mz_expected": 209.05,
+                        "time": 1.5856666333333334
+                    }
+                ]
+            },
+            "2.17": {
+                "LC_Area": 0.20738152133420776,
+                "MS_Hits": []
+            },
+            "MS_PASS": true
+        },
+        "SCALEUP": true
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Am2",
+            "isocyanate": "Iso"
+        },
+        "amine": "Am2",
+        "isocyanate": "Iso",
+        "peaks_ppm": [
+            7.890816,
+            7.455104,
+            5.370713,
+            5.284452,
+            3.52063,
+            3.441088,
+            3.363202,
+            3.285262,
+            2.527167,
+            2.495966,
+            2.447975,
+            2.416864,
+            2.367306,
+            2.336605,
+            1.686377
+        ],
+        "DTW_distance": 52.159972812967176,
+        "NMR_PASS": true,
+        "lcms_peaks": {
+            "2.09": {
+                "LC_Area": 1.0,
+                "MS_Hits": [
+                    {
+                        "mz_value": 325.052001953125,
+                        "mode": "ES+",
+                        "formula": "Am2_Iso [M+H]+",
+                        "charge": "1",
+                        "mz_expected": 325.08,
+                        "time": 2.139000033333333
+                    },
+                    {
+                        "mz_value": 366.0869445800781,
+                        "mode": "ES+",
+                        "formula": "Am2_Iso [M+CH3CN+H]+",
+                        "charge": "1",
+                        "mz_expected": 366.1,
+                        "time": 2.139000033333333
+                    }
+                ]
+            },
+            "MS_PASS": true
+        },
+        "SCALEUP": true
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Am2",
+            "isocyanate": "Thio"
+        },
+        "amine": "Am2",
+        "isocyanate": "Thio",
+        "peaks_ppm": [
+            7.739013,
+            7.373097,
+            7.300905,
+            7.258627,
+            7.214922,
+            7.116344,
+            7.057496,
+            7.002861,
+            5.374008,
+            5.289343,
+            3.850301,
+            3.771927,
+            3.695218,
+            3.617741,
+            2.612827,
+            2.581035,
+            2.533406,
+            2.501635,
+            2.453468,
+            2.421836,
+            1.616866
+        ],
+        "DTW_distance": 35.8181173007066,
+        "NMR_PASS": true,
+        "lcms_peaks": {
+            "1.64": {
+                "LC_Area": 0.7272491309007226,
+                "MS_Hits": [
+                    {
+                        "mz_value": 223.0448455810547,
+                        "mode": "ES+",
+                        "formula": "Am2_Thio [M+H]+",
+                        "charge": "1",
+                        "mz_expected": 223.07,
+                        "time": 1.6915000333333334
+                    }
+                ]
+            },
+            "2.17": {
+                "LC_Area": 0.2727508690992773,
+                "MS_Hits": []
+            },
+            "MS_PASS": true
+        },
+        "SCALEUP": true
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Am3",
+            "isocyanate": "Iso"
+        },
+        "amine": "Am3",
+        "isocyanate": "Iso",
+        "peaks_ppm": [
+            7.930969,
+            7.587055,
+            7.523122,
+            7.411025,
+            7.325804,
+            5.375614,
+            3.091465
+        ],
+        "DTW_distance": 110.27111039148622,
+        "NMR_PASS": true,
+        "lcms_peaks": {
+            "2.33": {
+                "LC_Area": 1.0,
+                "MS_Hits": [
+                    {
+                        "mz_value": 373.24298095703125,
+                        "mode": "ES+",
+                        "formula": "Am3_Iso [M+H]+",
+                        "charge": "1",
+                        "mz_expected": 373.08,
+                        "time": 2.380666583333333
+                    },
+                    {
+                        "mz_value": 414.2171630859375,
+                        "mode": "ES+",
+                        "formula": "Am3_Iso [M+CH3CN+H]+",
+                        "charge": "1",
+                        "mz_expected": 414.1,
+                        "time": 2.380666583333333
+                    }
+                ]
+            },
+            "MS_PASS": true
+        },
+        "SCALEUP": true
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Am3",
+            "isocyanate": "Thio"
+        },
+        "amine": "Am3",
+        "isocyanate": "Thio",
+        "peaks_ppm": [
+            7.468315,
+            7.428994,
+            7.304539,
+            7.282217,
+            7.22355,
+            7.198297,
+            7.160583,
+            7.056494,
+            6.973189,
+            6.94264,
+            6.638434,
+            6.531881,
+            5.371621,
+            5.285269,
+            3.919106,
+            3.164621,
+            2.978551,
+            2.451134,
+            1.594643
+        ],
+        "DTW_distance": 23.626137742249906,
+        "NMR_PASS": false,
+        "lcms_peaks": {
+            "1.12": {
+                "LC_Area": 0.2819020104263102,
+                "MS_Hits": []
+            },
+            "1.91": {
+                "LC_Area": 0.06762519631134623,
+                "MS_Hits": []
+            },
+            "2.17": {
+                "LC_Area": 0.6504727932623435,
+                "MS_Hits": []
+            },
+            "MS_PASS": false
+        },
+        "SCALEUP": false
+    }
+}

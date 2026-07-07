@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="fszcz" date="2024-05-14T23:08:07.492+01:00" expNo="10" name="MEDCHEM-DIVERSITY-15" owner="" procNo="1" source="E:\synbots_clean\NMR\MEDCHEM-DIVERSITY\DATA\NMR">
+      <PeakPickDetails>F1=13.121870ppm, F2=-2.477790ppm, MI=10.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.597684" intensity="1.429850e+01" type="0"/>
+    <Peak1D F1="5.347277" intensity="4.079639e+01" type="0"/>
+    <Peak1D F1="5.288436" intensity="1.500000e+02" type="0"/>
+    <Peak1D F1="2.658826" intensity="1.088056e+01" type="0"/>
+    <Peak1D F1="1.838487" intensity="1.114889e+01" type="0"/>
+    <Peak1D F1="1.789658" intensity="6.893337e+01" type="0"/>
+    <Peak1D F1="1.715923" intensity="7.076601e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

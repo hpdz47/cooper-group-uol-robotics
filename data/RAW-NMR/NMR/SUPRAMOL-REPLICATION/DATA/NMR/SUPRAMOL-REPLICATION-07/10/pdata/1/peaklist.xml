@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="fszcz" date="2024-05-13T18:26:10.036+01:00" expNo="10" name="SUPRAMOL-REPLICATION-07" owner="" procNo="1" source="E:\synbots_clean\NMR\SUPRAMOL-REPLICATION\DATA\NMR">
+      <PeakPickDetails>F1=12.558660ppm, F2=-3.040992ppm, MI=75.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.557906" intensity="1.500000e+02" type="0"/>
+    <Peak1D F1="8.268552" intensity="7.729523e+01" type="0"/>
+    <Peak1D F1="7.889203" intensity="1.346843e+02" type="0"/>
+    <Peak1D F1="7.838579" intensity="9.115321e+01" type="0"/>
+    <Peak1D F1="7.006262" intensity="9.012010e+01" type="0"/>
+    <Peak1D F1="6.904675" intensity="1.134743e+02" type="0"/>
+    <Peak1D F1="6.234661" intensity="1.185666e+02" type="0"/>
+    <Peak1D F1="6.133210" intensity="9.337900e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

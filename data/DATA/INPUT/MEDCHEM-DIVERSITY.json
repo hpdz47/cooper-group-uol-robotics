@@ -1,0 +1,102 @@
+{
+    "7": {
+        "sample_info": {
+            "urea": "Am1_Iso",
+            "reagent": "Pyr"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "8": {
+        "sample_info": {
+            "urea": "Am1_Thio",
+            "reagent": "Pyr"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "9": {
+        "sample_info": {
+            "urea": "Am2_Iso",
+            "reagent": "Pyr"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "10": {
+        "sample_info": {
+            "urea": "Am2_Thio",
+            "reagent": "Pyr"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "11": {
+        "sample_info": {
+            "urea": "Am3_Iso",
+            "reagent": "Pyr"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "13": {
+        "sample_info": {
+            "urea": "Am1_Iso",
+            "reagent": "Zido"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "14": {
+        "sample_info": {
+            "urea": "Am1_Thio",
+            "reagent": "Zido"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "15": {
+        "sample_info": {
+            "urea": "Am2_Iso",
+            "reagent": "Zido"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "16": {
+        "sample_info": {
+            "urea": "Am2_Thio",
+            "reagent": "Zido"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "17": {
+        "sample_info": {
+            "urea": "Am3_Iso",
+            "reagent": "Zido"
+        },
+        "solvent": "CH2Cl2",
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}

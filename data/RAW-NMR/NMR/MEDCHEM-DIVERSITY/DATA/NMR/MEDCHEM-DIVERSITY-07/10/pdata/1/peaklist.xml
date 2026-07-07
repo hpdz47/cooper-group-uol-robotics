@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="fszcz" date="2024-05-14T23:07:55.645+01:00" expNo="10" name="MEDCHEM-DIVERSITY-07" owner="" procNo="1" source="E:\synbots_clean\NMR\MEDCHEM-DIVERSITY\DATA\NMR">
+      <PeakPickDetails>F1=12.441840ppm, F2=-3.157809ppm, MI=10.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.319873" intensity="2.440386e+01" type="0"/>
+    <Peak1D F1="8.270067" intensity="2.646345e+01" type="0"/>
+    <Peak1D F1="7.965449" intensity="2.257588e+01" type="0"/>
+    <Peak1D F1="7.899376" intensity="1.852662e+01" type="0"/>
+    <Peak1D F1="7.711104" intensity="1.262181e+01" type="0"/>
+    <Peak1D F1="7.686695" intensity="1.153613e+01" type="0"/>
+    <Peak1D F1="7.612000" intensity="2.662814e+01" type="0"/>
+    <Peak1D F1="7.587293" intensity="2.449977e+01" type="0"/>
+    <Peak1D F1="7.529000" intensity="6.535798e+01" type="0"/>
+    <Peak1D F1="7.505919" intensity="7.615769e+01" type="0"/>
+    <Peak1D F1="7.416854" intensity="2.180086e+01" type="0"/>
+    <Peak1D F1="7.357750" intensity="3.442504e+01" type="0"/>
+    <Peak1D F1="7.332715" intensity="2.780015e+01" type="0"/>
+    <Peak1D F1="7.297634" intensity="2.930087e+01" type="0"/>
+    <Peak1D F1="7.273539" intensity="3.058339e+01" type="0"/>
+    <Peak1D F1="7.218615" intensity="1.662622e+01" type="0"/>
+    <Peak1D F1="7.192051" intensity="1.327911e+01" type="0"/>
+    <Peak1D F1="5.376527" intensity="5.687843e+01" type="0"/>
+    <Peak1D F1="5.278827" intensity="2.000039e+01" type="0"/>
+    <Peak1D F1="3.980320" intensity="2.473809e+01" type="0"/>
+    <Peak1D F1="3.744476" intensity="5.597823e+01" type="0"/>
+    <Peak1D F1="2.090768" intensity="1.298703e+01" type="0"/>
+    <Peak1D F1="1.950503" intensity="1.162406e+02" type="0"/>
+    <Peak1D F1="1.132349" intensity="1.497144e+02" type="0"/>
+    <Peak1D F1="1.055158" intensity="1.500000e+02" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-02-03T19:13:16.259+00:00" expNo="1001001" name="SUPRAMOL-SCREENING-12" owner="" procNo="1" source="C:\synthesis_bots\2024-02-03-SUPRAMOL-SCREENING\DATA\NMR">
+      <PeakPickDetails>F1=1000.000000ppm, F2=-1000.000000ppm, MI=0.10cm, MAXI=1.50cm, PC=5.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.896094" intensity="1.000000e+00" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,7 @@
+Index,VolStockUrea,ReplicationBinary,VolScaleUpDCMDilution,VolUreaScaleUpDispense,VolScaleUpReformat,VolClickStocks,VolSonogStocks,VolClickDisp,VolSonogDisp,Program,NMRDisp,LCMSDisp,LCMSDilution,DCM Workup,RxnDilutionSonogashiraClick,WaterDilution Click,Unnamed: 17,Iso,K2CO3,Cu
+1,17.7,1,30.0,6.0,10.0,12.8,7.25,1.5,1.5,2.0,0.7,0.5,1.5,6.0,3.0,0.0,,Thio,Ligand,Asc
+2,19.3,1,,,,15.0,7.25,,,,,,,,1.5,0.0,,MonoMethylene,Pd,Zid DCM
+3,17.2,1,,,,,10.5,,,,,,,,4.5,,,Dimethylene,Pyrmidine Water,Zid CAN
+4,18.9,1,,,,,12.2,,,,,,,,1.5,,,Aniline,Pyrmidine IPA,
+5,0.0,1,,,,,6.8,,,,,,,,,,,,,
+6,,0,,,,,6.8,,,,,,,,,,,,,

@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 4.2.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= fszcz
+$$ E:\synbots_clean\NMR\SUPRAMOL-HOST-GUEST\DATA\NMR/SUPRAMOL-SM-TREN/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-12-01T15:39:55.641+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/Users/nmrsu/Desktop/LCMS-NMR-Analysis-main/supramol_SMs_NMR/supramol_SMs-06/1001001/audita.txt
+(   2,<2023-12-01T15:40:01.910+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'e0493912-905f-11ee-a69e-0000ad371d11'
+       started at 2023-12-01 15:39:55.641 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2023-12-01 15:40:01.902 +0000
+       configuration hash MD5:
+       3B 63 13 C9 3C C0 BE 7D 9C 93 8A 81 EB 30 E6 7B
+       double data hash MD5: 6450
+       A6 06 0F 86 B6 B3 6E 9C 9B 04 7F 7F 00 77 BF D4>)
+(   3,<2023-12-01T15:40:02.781+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       9D 73 06 AC B7 79 01 D0 75 F6 63 52 73 76 A8 9B>)
+(   4,<2023-12-01T15:40:03.734+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk0 
+       data hash MD5: 64K
+       25 96 3F B2 37 06 40 15 AF 81 90 AA CD 1D 0E 9C>)
+(   5,<2023-12-01T15:40:03.835+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       25 96 3F B2 37 06 40 15 AF 81 90 AA CD 1D 0E 9C>)
+(   6,<2024-05-13 18:28:26.688 +0100>,<fszcz>,<cataratto>,<jcamp>,<TopSpin 4.2.0>,
+      <fromjdx created from
+       E:\synbots_clean\DATA\SUPRAMOL-SCREENING\SUPRAMOL-SM\SUPRAMOL-SM-TREN.dx
+       data hash MD5: 64K
+       25 96 3F B2 37 06 40 15 AF 81 90 AA CD 1D 0E 9C>)
+##END=
+
+$$ hash MD5
+$$ 31 D1 E4 AD 51 03 0F 35 FC 6E 9F 8A 5E BD 3F 67

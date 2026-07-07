@@ -1,0 +1,119 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\synthesis_bots\2024-02-03-SUPRAMOL-SCREENING\DATA\NMR\SUPRAMOL-SCREENING-12\10\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-03T20:54:23.443+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 8192>)
+(   2,<2024-02-03T20:54:23.481+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 LB to 1.20>)
+(   3,<2024-02-03T20:54:23.547+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(   4,<2024-02-03T20:54:26.195+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <apbk -n
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(   5,<2024-02-03T20:54:26.258+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(   6,<2024-02-03T20:54:26.274+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <ht 
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(   7,<2024-02-03T20:54:26.557+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SR to -5.11>)
+(   8,<2024-02-03T20:54:26.557+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed status parameter F1 SR to -5.11>)
+(   9,<2024-02-03T20:54:26.635+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 CY to 150>)
+(  10,<2024-02-03T20:54:26.698+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 MI to 10>)
+(  11,<2024-02-03T20:54:26.855+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+$$ E:\synbots_clean\NMR\SUPRAMOL-SCREENING\DATA\NMR/SUPRAMOL-SCREENING-12/10/pdata/1/auditp.txt
+(  12,<2024-05-13 15:35:13.720 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  13,<2024-05-13 15:35:17.201 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  14,<2024-05-13 15:35:17.254 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  15,<2024-05-13 15:35:17.275 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  16,<2024-05-13 15:35:17.630 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.11>)
+(  17,<2024-05-13 15:35:17.646 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.11>)
+(  18,<2024-05-13 15:35:17.898 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  19,<2024-05-13 15:40:47.064 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  20,<2024-05-13 15:40:49.836 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  21,<2024-05-13 15:40:49.889 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  22,<2024-05-13 15:40:49.911 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  23,<2024-05-13 15:40:50.178 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.11>)
+(  24,<2024-05-13 15:40:50.191 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.11>)
+(  25,<2024-05-13 15:40:50.383 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  26,<2024-05-13 15:45:01.462 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  27,<2024-05-13 15:45:03.932 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       47 39 87 B3 CF 13 3A 1B 9B 0C D4 EE F4 0A 9A EE>)
+(  28,<2024-05-13 15:45:03.983 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  29,<2024-05-13 15:45:04.004 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+(  30,<2024-05-13 15:45:04.234 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.11>)
+(  31,<2024-05-13 15:45:04.246 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.11>)
+(  32,<2024-05-13 15:45:04.460 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       CF AD 38 8D 0A F7 3D 81 D2 A6 9A E8 C4 1D E8 4D>)
+##END=
+
+$$ hash MD5
+$$ A2 FB EC 56 44 30 84 24 E8 BA 2F 33 53 72 61 F8

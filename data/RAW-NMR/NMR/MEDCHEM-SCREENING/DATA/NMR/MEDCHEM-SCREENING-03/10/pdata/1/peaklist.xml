@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="fszcz" date="2024-05-14T18:59:53.765+01:00" expNo="10" name="MEDCHEM-SCREENING-03" owner="" procNo="1" source="E:\synbots_clean\NMR\MEDCHEM-SCREENING\DATA\NMR">
+      <PeakPickDetails>F1=12.460940ppm, F2=-3.138710ppm, MI=10.00cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.890816" intensity="1.500000e+02" type="0"/>
+    <Peak1D F1="7.455104" intensity="7.561532e+01" type="0"/>
+    <Peak1D F1="5.370713" intensity="7.211254e+01" type="0"/>
+    <Peak1D F1="5.284452" intensity="4.324045e+01" type="0"/>
+    <Peak1D F1="3.520630" intensity="3.168287e+01" type="0"/>
+    <Peak1D F1="3.441088" intensity="8.980397e+01" type="0"/>
+    <Peak1D F1="3.363202" intensity="9.694896e+01" type="0"/>
+    <Peak1D F1="3.285262" intensity="3.878102e+01" type="0"/>
+    <Peak1D F1="2.527167" intensity="4.147961e+01" type="0"/>
+    <Peak1D F1="2.495966" intensity="4.719698e+01" type="0"/>
+    <Peak1D F1="2.447975" intensity="6.962522e+01" type="0"/>
+    <Peak1D F1="2.416864" intensity="7.124370e+01" type="0"/>
+    <Peak1D F1="2.367306" intensity="3.193905e+01" type="0"/>
+    <Peak1D F1="2.336605" intensity="2.799734e+01" type="0"/>
+    <Peak1D F1="1.686377" intensity="9.065618e+01" type="0"/>
+  </PeakList1D>
+</PeakList>

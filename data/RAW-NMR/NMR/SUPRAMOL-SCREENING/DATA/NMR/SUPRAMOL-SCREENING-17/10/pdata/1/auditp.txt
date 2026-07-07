@@ -1,0 +1,119 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\synthesis_bots\2024-02-03-SUPRAMOL-SCREENING\DATA\NMR\SUPRAMOL-SCREENING-17\10\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-03T20:54:44.460+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SI to 8192>)
+(   2,<2024-02-03T20:54:44.523+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 LB to 1.20>)
+(   3,<2024-02-03T20:54:44.633+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(   4,<2024-02-03T20:54:47.237+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <apbk -n
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(   5,<2024-02-03T20:54:47.285+0000>,<nmrsu>,<4CE1161FJM>,<dataserver>,<TopSpin 4.3.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(   6,<2024-02-03T20:54:47.316+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <ht 
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(   7,<2024-02-03T20:54:47.583+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SR to -5.94>)
+(   8,<2024-02-03T20:54:47.598+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed status parameter F1 SR to -5.94>)
+(   9,<2024-02-03T20:54:47.661+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 CY to 150>)
+(  10,<2024-02-03T20:54:47.723+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 MI to 10>)
+(  11,<2024-02-03T20:54:47.883+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+$$ E:\synbots_clean\NMR\SUPRAMOL-SCREENING\DATA\NMR/SUPRAMOL-SCREENING-17/10/pdata/1/auditp.txt
+(  12,<2024-05-13 15:35:34.666 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  13,<2024-05-13 15:35:37.546 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  14,<2024-05-13 15:35:37.601 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  15,<2024-05-13 15:35:37.624 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  16,<2024-05-13 15:35:37.969 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.94>)
+(  17,<2024-05-13 15:35:37.981 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.94>)
+(  18,<2024-05-13 15:35:38.256 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  19,<2024-05-13 15:41:08.983 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  20,<2024-05-13 15:41:11.949 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  21,<2024-05-13 15:41:12.001 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  22,<2024-05-13 15:41:12.021 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  23,<2024-05-13 15:41:12.400 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.94>)
+(  24,<2024-05-13 15:41:12.418 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.94>)
+(  25,<2024-05-13 15:41:12.652 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  26,<2024-05-13 15:45:25.201 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <Start of raw data processing
+       ef LB = 1.2 FT_mod = 6 PKNL = 1 SI = 8K 
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  27,<2024-05-13 15:45:28.282 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <apbk -n
+       data hash MD5: 8K
+       98 C0 DE 1A D8 4E D4 A2 0A CA A4 99 CD 60 32 E3>)
+(  28,<2024-05-13 15:45:28.340 +0100>,<fszcz>,<cataratto>,<dataserver>,<TopSpin 4.2.0>,
+      <MLCommands store 1r file
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  29,<2024-05-13 15:45:28.358 +0100>,<fszcz>,<cataratto>,<proc1d>,<TopSpin 4.2.0>,
+      <ht 
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+(  30,<2024-05-13 15:45:28.681 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed parameter F1 SR to -5.94>)
+(  31,<2024-05-13 15:45:28.696 +0100>,<fszcz>,<cataratto>,<cprserver>,<TopSpin 4.2.0>,
+      <changed status parameter F1 SR to -5.94>)
+(  32,<2024-05-13 15:45:28.891 +0100>,<fszcz>,<cataratto>,<peak>,<TopSpin 4.2.0>,
+      <1D Peak picking
+       data hash MD5: 8K
+       01 EE A4 7B 73 E3 67 98 E7 31 02 28 7F EB 2F 7D>)
+##END=
+
+$$ hash MD5
+$$ 08 49 14 D9 ED A2 D7 B9 69 76 8F 06 E3 9B 79 B5

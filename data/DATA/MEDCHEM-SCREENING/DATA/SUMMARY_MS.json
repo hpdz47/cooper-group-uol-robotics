@@ -1,0 +1,133 @@
+{
+    "1": {
+        "2.04": {
+            "LC_Area": 1.0,
+            "MS_Hits": [
+                {
+                    "mz_value": 310.9309387207031,
+                    "mode": "ES+",
+                    "formula": "Am1_Iso [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 311.06,
+                    "time": 2.0906666333333335
+                },
+                {
+                    "mz_value": 352.09173583984375,
+                    "mode": "ES+",
+                    "formula": "Am1_Iso [M+CH3CN+H]+",
+                    "charge": "1",
+                    "mz_expected": 352.09,
+                    "time": 2.0906666333333335
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "2": {
+        "1.14": {
+            "LC_Area": 0.15243750723160698,
+            "MS_Hits": []
+        },
+        "1.54": {
+            "LC_Area": 0.6401809714341852,
+            "MS_Hits": [
+                {
+                    "mz_value": 208.98922729492188,
+                    "mode": "ES+",
+                    "formula": "Am1_Thio [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 209.05,
+                    "time": 1.5856666333333334
+                }
+            ]
+        },
+        "2.17": {
+            "LC_Area": 0.20738152133420776,
+            "MS_Hits": []
+        },
+        "MS_PASS": true
+    },
+    "3": {
+        "2.09": {
+            "LC_Area": 1.0,
+            "MS_Hits": [
+                {
+                    "mz_value": 325.052001953125,
+                    "mode": "ES+",
+                    "formula": "Am2_Iso [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 325.08,
+                    "time": 2.139000033333333
+                },
+                {
+                    "mz_value": 366.0869445800781,
+                    "mode": "ES+",
+                    "formula": "Am2_Iso [M+CH3CN+H]+",
+                    "charge": "1",
+                    "mz_expected": 366.1,
+                    "time": 2.139000033333333
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "4": {
+        "1.64": {
+            "LC_Area": 0.7272491309007226,
+            "MS_Hits": [
+                {
+                    "mz_value": 223.0448455810547,
+                    "mode": "ES+",
+                    "formula": "Am2_Thio [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 223.07,
+                    "time": 1.6915000333333334
+                }
+            ]
+        },
+        "2.17": {
+            "LC_Area": 0.2727508690992773,
+            "MS_Hits": []
+        },
+        "MS_PASS": true
+    },
+    "5": {
+        "2.33": {
+            "LC_Area": 1.0,
+            "MS_Hits": [
+                {
+                    "mz_value": 373.24298095703125,
+                    "mode": "ES+",
+                    "formula": "Am3_Iso [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 373.08,
+                    "time": 2.380666583333333
+                },
+                {
+                    "mz_value": 414.2171630859375,
+                    "mode": "ES+",
+                    "formula": "Am3_Iso [M+CH3CN+H]+",
+                    "charge": "1",
+                    "mz_expected": 414.1,
+                    "time": 2.380666583333333
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "6": {
+        "1.12": {
+            "LC_Area": 0.2819020104263102,
+            "MS_Hits": []
+        },
+        "1.91": {
+            "LC_Area": 0.06762519631134623,
+            "MS_Hits": []
+        },
+        "2.17": {
+            "LC_Area": 0.6504727932623435,
+            "MS_Hits": []
+        },
+        "MS_PASS": false
+    }
+}

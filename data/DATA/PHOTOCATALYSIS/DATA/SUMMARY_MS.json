@@ -1,0 +1,185 @@
+{
+    "1": {
+        "1.45": {
+            "LC_Area": 0.10112746286871044,
+            "MS_Hits": []
+        },
+        "2.10": {
+            "LC_Area": 0.8988725371312896,
+            "MS_Hits": []
+        },
+        "MS_PASS": false
+    },
+    "2": {
+        "1.45": {
+            "LC_Area": 0.08191693653504287,
+            "MS_Hits": []
+        },
+        "2.10": {
+            "LC_Area": 0.918083063464957,
+            "MS_Hits": []
+        },
+        "MS_PASS": false
+    },
+    "3": {
+        "2.13": {
+            "LC_Area": 0.12913783369620277,
+            "MS_Hits": []
+        },
+        "2.41": {
+            "LC_Area": 0.658208692818188,
+            "MS_Hits": [
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.4589999666666666
+                },
+                {
+                    "mz_value": 442.14666748046875,
+                    "mode": "ES+",
+                    "formula": "Product [M+Na]+",
+                    "charge": "1",
+                    "mz_expected": 442.22,
+                    "time": 2.4589999666666666
+                }
+            ]
+        },
+        "2.46": {
+            "LC_Area": 0.2126534734856093,
+            "MS_Hits": [
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.50816665
+                },
+                {
+                    "mz_value": 442.21002197265625,
+                    "mode": "ES+",
+                    "formula": "Product [M+Na]+",
+                    "charge": "1",
+                    "mz_expected": 442.22,
+                    "time": 2.50816665
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "4": {
+        "2.41": {
+            "LC_Area": 0.7677649559191758,
+            "MS_Hits": [
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.4598332333333333
+                }
+            ]
+        },
+        "2.46": {
+            "LC_Area": 0.23223504408082418,
+            "MS_Hits": [
+                {
+                    "mz_value": 320.1127014160156,
+                    "mode": "ES+",
+                    "formula": "Product [M-Boc+2H]+",
+                    "charge": "1",
+                    "mz_expected": 320.186,
+                    "time": 2.5089999166666668
+                },
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.5089999166666668
+                },
+                {
+                    "mz_value": 442.2733154296875,
+                    "mode": "ES+",
+                    "formula": "Product [M+Na]+",
+                    "charge": "1",
+                    "mz_expected": 442.22,
+                    "time": 2.5089999166666668
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "5": {
+        "2.41": {
+            "LC_Area": 0.7576093867440039,
+            "MS_Hits": [
+                {
+                    "mz_value": 320.4293518066406,
+                    "mode": "ES+",
+                    "formula": "Product [M-Boc+2H]+",
+                    "charge": "1",
+                    "mz_expected": 320.186,
+                    "time": 2.4615000166666667
+                },
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.4615000166666667
+                }
+            ]
+        },
+        "2.46": {
+            "LC_Area": 0.24239061325599612,
+            "MS_Hits": [
+                {
+                    "mz_value": 320.4293518066406,
+                    "mode": "ES+",
+                    "formula": "Product [M-Boc+2H]+",
+                    "charge": "1",
+                    "mz_expected": 320.186,
+                    "time": 2.5106667000000003
+                },
+                {
+                    "mz_value": 420.2336730957031,
+                    "mode": "ES+",
+                    "formula": "Product [M+H]+",
+                    "charge": "1",
+                    "mz_expected": 420.238,
+                    "time": 2.5106667000000003
+                },
+                {
+                    "mz_value": 442.21002197265625,
+                    "mode": "ES+",
+                    "formula": "Product [M+Na]+",
+                    "charge": "1",
+                    "mz_expected": 442.22,
+                    "time": 2.5106667000000003
+                }
+            ]
+        },
+        "MS_PASS": true
+    },
+    "6": {
+        "2.10": {
+            "LC_Area": 1.0,
+            "MS_Hits": []
+        },
+        "MS_PASS": false
+    },
+    "7": {
+        "2.10": {
+            "LC_Area": 1.0,
+            "MS_Hits": []
+        },
+        "MS_PASS": false
+    }
+}
